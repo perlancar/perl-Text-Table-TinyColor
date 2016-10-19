@@ -7,6 +7,7 @@ use 5.006;
 use strict;
 use warnings;
 
+use List::Util ();
 use Text::ANSI::Util qw(ta_length ta_pad);
 
 use Exporter qw(import);
