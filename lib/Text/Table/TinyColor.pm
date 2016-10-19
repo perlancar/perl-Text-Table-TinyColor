@@ -130,8 +130,9 @@ sub _get_header_row_separator {
 
 =head1 DESCRIPTION
 
-This module is L<Text::Table::Tiny> (0.04) which adds supports for colored text
-(text that contains ANSI color codes): the colored text will still line up.
+This module is like L<Text::Table::Tiny> (0.04) with added support for colored
+text (text that contains ANSI color codes). With this module, the colored text
+will still line up.
 
 Interface, options, and format variables are the same as in Text::Table::Tiny.
 
